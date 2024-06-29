@@ -1,1 +1,1 @@
-# HAR-Project
+# HUMAN ACTIVITY RECOGNITION-Project
